@@ -1,0 +1,10 @@
+org\generation\fsdwebdemo\service\ItemServiceMySQL.class
+org\generation\fsdwebdemo\controller\dto\ItemDTO.class
+org\generation\fsdwebdemo\security\WebSecurityConfig.class
+org\generation\fsdwebdemo\controller\ItemController.class
+org\generation\fsdwebdemo\FsdwebdemoApplication.class
+org\generation\fsdwebdemo\service\ItemService.class
+org\generation\fsdwebdemo\component\FileUploadUtil.class
+org\generation\fsdwebdemo\repository\entity\Item.class
+org\generation\fsdwebdemo\repository\ItemRepository.class
+org\generation\fsdwebdemo\security\MvcConfig.class
