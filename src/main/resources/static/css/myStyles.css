@@ -1,0 +1,24 @@
+
+/* Your own customise CSS here */
+.classname {
+    display: flex;
+
+}
+
+/* media query here */
+@media screen and (max-width: 768px)
+{
+    .myVideo iframe {
+        width: 360px;
+        height: 115px;
+    }
+
+    .imgScale img {
+        width: 50%;
+    }
+
+    #carouselExample {
+        display: none;
+    }
+
+}
