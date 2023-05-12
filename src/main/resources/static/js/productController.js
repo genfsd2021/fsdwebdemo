@@ -11,6 +11,8 @@
 //const addAPI= 'http://localhost:8080/item/add';
 //const displayAPI = 'http://localhost:8080/item/all';
 
+/* Comment */
+
 //production APIs
 const addAPI = 'https://jeanwebdemo.azurewebsites.net/item/add';
 const displayAPI = 'https://jeanwebdemo.azurewebsites.net/item/all';
