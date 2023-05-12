@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'jeanwebdemo'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1ED710C8D67A4768A79ED5947CE31F72 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_01DBFCB2589C4CE5B9359D233A709CBB }}
           package: '*.jar'
